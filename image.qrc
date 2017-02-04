@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/accepter-check-ok-oui-icone-4851-48.png</file>
+        <file>img/annuler-icone-6802-48.png</file>
+        <file>img/ascendants-gtk-trier-icone-8190-48.png</file>
+        <file>img/case-cube-module-de-icone-7687-48.png</file>
+        <file>img/copier-documents-fichiers-icone-4608-48.png</file>
+        <file>img/cryptee-icone-6599-48.png</file>
+        <file>img/fermer-icone-9559-48.png</file>
+        <file>img/session-interrupteur-icone-6284-48.png</file>
+        <file>img/un-reel-icone-8520-48.png</file>
+        <file>img/vider.png</file>
+    </qresource>
+</RCC>
